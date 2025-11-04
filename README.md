@@ -1,0 +1,2 @@
+fungsi program ini untuk menentukan data yang dimasukkan user apakah termasuk type A atau B cara kerja program ini adalah dengan cara data yang dimasukkan user dibagi dua sampai tidak bisa di bagi jika data tersebut masih ada sisa maka dia di kategorikan type B dan sebaliknya
+<img width="1642" height="667" alt="image" src="https://github.com/user-attachments/assets/2d80d5d7-1183-4519-816e-03a9641a3afa" />
